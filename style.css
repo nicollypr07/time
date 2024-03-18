@@ -1,0 +1,17 @@
+h1{color: black;
+}
+
+h2{color: beige;
+}
+
+h3{color: bisque;
+}
+
+h1{text-align: center;
+}
+h2{text-align: right;
+}
+h3{border-color: azure;
+border-style;
+border-width: 5px;
+}
